@@ -1,2 +1,3 @@
-# Base-Portal
-Base Portal  using PHP Codeigniter
+# Codeigniter Base Template
+
+Codeigniter V.2.2
